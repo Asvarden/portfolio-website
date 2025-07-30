@@ -162,6 +162,15 @@ body.dark #contact a {
   color: #121212;
 }
 
+body.dark .project {
+  background-color: #1e1e1e;
+}
+
+body.dark .project h3,
+body.dark .project p {
+  color: #f4f4f4;
+}
+
 body.dark footer {
   background-color: #1e1e1e;
 }
